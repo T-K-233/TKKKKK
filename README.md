@@ -55,10 +55,13 @@
 ###### 09.09
 
 - 文书 V2
+- 奈 重做形象
+
+![](/assets/nai_appr.png)
 
 - 奈 歌词生成尝试 效果还不错
 
-![](assets/nai_lyric.png)
+![](/assets/nai_lyric.jpg)
 
 ###### 09.10
 
