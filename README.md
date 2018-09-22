@@ -65,7 +65,7 @@
 
 ###### 09.10
 
-- CosmoZ `V5.0` 稳定版！添加了键盘操控，并且控制逻辑现在很优化了。
+- **CosmoZ `V5.0` 稳定版！添加了键盘操控，并且控制逻辑现在很优化了。**
 
 ######  09.11
 
@@ -74,5 +74,63 @@
 
 ###### 09.12
 
+- Lofter [页面](http://t-k-233.lofter.com) get 
+- 基准色已确定！
 
+###### 09.13
 
+- 完成公众号版面设计，重做计算器教程 [成果](https://mp.weixin.qq.com/s?__biz=MzI1NDQ1ODkzMg==&tempkey=OTc0X1JoQ1NqcFdnN3hHZXZuRVFSSzF5WmQ1ZDF0Y09nejlvRnhmNDF1bl9xeXNiYnhWRnhGb1N2VE13QkpLQzdwdE10XzBITnB2Wm1oMEt1cXVhb3lvMTRUeGllcE9ETHp6VDU2enN4YktUOUttd0NxMU5qemFPNG0xZzZNT3JKa25sbjg4SUxaWkVyaUp6X0dIRnFrRkN5a3E3VjZ6SWNBRmJCbEdBemd%2Bfg%3D%3D&chksm=69c5af445eb226527cf8b66c534b259e60ee32bb428f2adef208e74d0d5c7f96c4a5e3e80d82#rd)
+
+- （找到了 TI-nspire CAS 的电脑端程序，可以直接用屏幕截图啦！开心！）
+
+###### 09.14
+
+- 计算器教程必须要发出来才能文内引用链接.....看来需要日更了
+- Common 卡关中.......
+- [Python 安装教程 RE](https://www.jianshu.com/p/724ced2db16a) 完成
+- 采集了更多的古风歌词数据，重做歌词生成
+
+![](/assets/nai_lyric_2.png)
+
+###### 09.15
+
+- EA 文书 60%
+- Bilibili 下载器 @ [bilibili2333.com](http://bilibili2333.com)
+
+###### 09.16
+
+- EA V1 100%
+- 《卜者》
+- 塔罗牌好有趣啊
+
+###### 09.17
+
+- k-load 添加了 bilibili 下载功能
+- midiCsv 重试，success
+
+###### 09.18
+
+- TI 教程鸽了一天.....
+- 参观 Intel 中国科学院 Lab
+- Phy EnM 视频 80%
+
+###### 09.19
+
+- Midi 转换器 60%
+- 找到了一个能够做视频→ gif 的 python 库
+- 科技部转化.....还需要 more work
+- Phy EnM 100% finish
+
+###### 09.20
+
+- Common V4
+- 电脑音箱重新接线...
+
+###### 09.21
+
+- 5451 新队员见面会
+- Bilibili 下载器 80%
+
+###### 09.22
+
+- Bilibili 下载器重写，完结!
